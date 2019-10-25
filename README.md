@@ -1,4 +1,4 @@
-# v-filecheck
+# filecheck
 A simple library for validating &amp; checking file types. Written in [V](https://vlang.io/)
 
 ## Example
