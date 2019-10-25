@@ -9,7 +9,7 @@ fn main() {
 	path := "../data/coin.pdf"
 	println('Is this file a pdf archive?')
 
-	ans := filecheck.is_pdf(path) or {
+	ans := valid.is_pdf(path) or {
 		println(err)
 		return
 	}

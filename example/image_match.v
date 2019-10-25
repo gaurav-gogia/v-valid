@@ -9,7 +9,7 @@ fn main() {
 	path := "../data/sctest"
 	println('Is this file an image?')
 
-	ans := filecheck.is_image(path) or {
+	ans := valid.is_image(path) or {
 		println(err)
 		return
 	}

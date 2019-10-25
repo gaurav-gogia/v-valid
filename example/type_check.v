@@ -7,7 +7,7 @@ import valid
 
 fn main() {
 	path := "../data/sctest"
-	ans := filecheck.which_type(path) or {
+	ans := valid.which_type(path) or {
 		println(err)
 		return
 	}
