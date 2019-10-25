@@ -19,7 +19,7 @@ fn main() {
 ```
 
 ## Usage
-Some more examples are available in [examples](./examples/) directory
+Some more examples are available in [examples](./example/) directory
 
 ## Contributing Guidelines
 0. Star this repository
