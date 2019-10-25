@@ -3,7 +3,7 @@
 	out what type of file you are dealing with.
 */
 
-import filecheck
+import valid
 
 fn main() {
 	path := "../data/sctest"

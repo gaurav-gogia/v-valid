@@ -3,7 +3,7 @@
 	whether a file is a pdf archive or not
 */
 
-import filecheck
+import valid
 
 fn main() {
 	path := "../data/coin.pdf"

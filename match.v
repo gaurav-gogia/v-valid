@@ -1,4 +1,4 @@
-module filecheck
+module valid
 
 pub fn checkpdf(buf string) bool {
 	if buf.len <= 3 {

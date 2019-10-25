@@ -1,4 +1,4 @@
-module filecheck
+module valid
 
 import os
 

@@ -3,7 +3,7 @@
 	whether a file is an image or not
 */
 
-import filecheck
+import valid
 
 fn main() {
 	path := "../data/sctest"

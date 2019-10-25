@@ -1,4 +1,4 @@
-module filecheck
+module valid
 
 const (	
 	bmp = [66, 77]
